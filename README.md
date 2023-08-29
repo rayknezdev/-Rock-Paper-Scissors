@@ -1,1 +1,1 @@
-# PP2-Rock-Paper-Scissors
+# Rock-Paper-Scissors
